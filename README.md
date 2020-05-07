@@ -4,22 +4,22 @@ Multilingual and Multi Blogs is a very complex plugin for the Bludit CMS. It add
 ## Features
 Here is a list of its features. Every feature can be enabled or disabled.
 
-### Multilingual Mode\***
+### Multilingual Mode
 Multilingual mode allows running fully multilingual websites with Bludit, making it easy to translate pages, posts, tags**, categories, and themes.
 
 ### MultiBlogs
 Multiblogs mode allows running multi sub-blogs with Bludit. You can have a default blog and unlimited sub-blogs, for instance news, reviews, videos etc. Each language can have its onw sub-blogs.
 
-### Videos Dir*
+### Videos Dir
 This mode allows you to set a blog as a video directory, where you can have videos instead of posts (for instance tutorials collection, news and more).
 
-### e-Commerce/eShop*
+### e-Commerce/eShop
 e-Commerce allows you to have your own eShop with Bludit. You can have an eShop for each language.
 
-### Deals/Coupons/Price Comparison*
+### Deals/Coupons/Price Comparison
 Instead of having an eShop, you can still enable the e-Commerce mode and start sharing coupons, deals and more. It can grab the price details from Amazon, AliExpress and eBay, so you can have and a price comparison site.
 
-### Ad Manager*
+### Ad Manager
 Create, manage, and display advertisements anywhere on your theme. Define where ads should be shown on your page and Ad Manager will do the rest for you.
 
 ### Auto Content
@@ -29,7 +29,7 @@ This mode allows you to add unlimited number of sources and start creating your 
 This mode allows you to have multiple sitemap files for each language and blog, helping search engines to better indexing your posts.
 
 ### SEO
-This mode allows you to control the SEO part of your site, like****:
+This mode allows you to control the SEO part of your site, like:
 -Referrer Policy
 -Nofollow tag in archive pages, categories, tags and more
 -Automatic ALT attribute (images)
@@ -40,9 +40,9 @@ This mode allows you to control the SEO part of your site, like****:
 -Website Verification Services
 
 ### AMP support
-This mode allows you to have AMP support for posts, pages, products*, forum threads*.
+This mode allows you to have AMP support for posts, pages, products, forum threads.
 
-### Users registration*
+### Users registration
 This mode allows you to have users register on your site and making new forum threafs, have their own user panel, view orders and more.
 
 ### Redirection Mode
@@ -60,7 +60,7 @@ This mode allows you to set Anti-Spam methods like No CAPTCHA reCAPTCHA and Hone
 ### Auto Embed
 Simply add a video URL (for Youtube, Twitter, Facebook) and it will be converted to its embed code.
 
-### Menu Creation***
+### Menu Creation
 This mode allows you to have a menu for your theme. You have two options:
 -Auto. This option creates the menu automatically, based on your blogs and language settings.
 -Manual. This option allows you to create your menu with drag n drop.
@@ -73,7 +73,7 @@ This mode allows you to create Widgets in your theme's sidebar. You can create t
 ### Cookie Consent
 This mode allows you to have Cookie Consent Message for each language.
 
-### Internal Comments*
+### Internal Comments
 You can have your own comment system for Bludit.
 
 ## How to install
@@ -88,13 +88,3 @@ During installation, the plugin will try to find your language and add it as "De
 The plugins doesn't touch any DB file of your blog. It creates its own folder under the db folder where it stores its own DB files. You can enable and disable the plugin without the fear of losing your posts.
 
 You can disable the plugin from its settings, so you don't lose its settings if you disable it through the plugin manager.
-
-\---------------------------------------------------------------------
-
-\*Feature has been removed from this release because is not yet ready
-
-\**Feature is missing from this release
-
-\*\*\*Theme modification is needed
-
-\*\*\*\*Some features are disabled in this release
