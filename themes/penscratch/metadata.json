@@ -1,0 +1,10 @@
+{
+	"author": "Kraken",
+	"email": "",
+	"website": "https://homebrewgr.info/en/",
+	"version": "1.0",
+	"releaseDate": "2020-02-20",
+	"license": "MIT",
+	"compatible": "3.12.0",
+	"notes": ""
+}
