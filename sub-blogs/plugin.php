@@ -239,13 +239,14 @@ class pluginSubBlogs extends Plugin {
 	{
 		global $url;
 		
+		$hide = false;
+		
 		if ( $url->parameter('menu') !== false )
 		{
+			$hide = true;
+			
 			if ( $url->parameter('sa') == 'add' )
 				$hide = false;
-			
-			else
-				$hide = true;
 		}
 		
 		return $hide;
