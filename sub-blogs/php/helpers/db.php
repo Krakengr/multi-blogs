@@ -1,0 +1,33 @@
+<?php defined('BLUDIT') or die('Bludit CMS.');
+
+$this->dbFields = array
+		(
+			'enable' => false,
+			'enable-langs' => false,
+            'delete-data' => false,
+			'hide-slug' => true,
+			'enable-sitemap' => 'disable',
+			'enable-shop' => 'disable',
+			'enable-forum' => 'disable',
+			'enable-video' => 'disable',
+			'default-lang' => array(),
+			'default-lang-extra' => array(),
+			'store-settings' => array(),
+			'forum-settings' => array(),
+			'antispam-settings' => array(),
+			'users-settings' => array(),
+			'seo-settings' => array(),
+			'amp-settings' => array(),
+			'enable-amp' => false,
+			'enable-seo' => false,
+			'allow-users' => false,
+			'enableantispam'=> false,
+			'enable-redirs'=> false,
+			'enableAutoContent'=> false,
+			'enableAutoContentCache'=> false,
+			'feedHash'=>'',
+			'enableMenu'=>'disable',
+			'enableWidgets'=>false,
+			'cookieconsent'=>false,
+			'cookieconsenttheme'=>'dark-floating',
+		);
