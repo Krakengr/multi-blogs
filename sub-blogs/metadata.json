@@ -4,7 +4,7 @@
 	"website": "https://homebrewgr.info/en/",
 	"version": "0.1 Beta",
 	"releaseDate": "2020-05-02",
-	"license": "MIT",
+	"license": "GPL",
 	"compatible": "3.12",
 	"notes": ""
 }
