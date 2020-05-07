@@ -88,7 +88,9 @@ During installation, the plugin will try to find your language and add it as "De
 The plugins doesn't touch any DB file of your blog. It creates its own folder under the db folder where it stores its own DB files. You can enable and disable the plugin without the fear of losing your posts.
 
 You can disable the plugin from its settings, so you don't lose its settings if you disable it through the plugin manager.
+
 \---------------------------------------------------------------------
+
 \*Feature has been removed from this release because is not yet ready
 
 \**Feature is missing from this release
