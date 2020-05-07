@@ -1,0 +1,2 @@
+# Penscratch
+Penscratch is a ported version of Penscratch 2 for WordPress, a fresh, stylish design for sharing your writing.
