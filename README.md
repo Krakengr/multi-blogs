@@ -1,5 +1,5 @@
 # Multilingual and Multi Blogs plugin for Bludit CMS
-Multilingual and Multi Blogs is a very complex plugin for the Bludit CMS. It adds a lot of features every modern site needs. This plugin created with speed and security in mind.
+Multilingual and Multi Blogs is a complex plugin for the Bludit CMS. It adds a lot of features every modern site needs. This plugin created with speed and security in mind.
 
 ## Features
 Here is a list of its features. Every feature can be enabled or disabled.
